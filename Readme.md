@@ -24,7 +24,7 @@ Ejecutarás un simulador de sensores desde la máquina virtual proporcionada par
 
 2. Localice la línea con la instancia llamada **training-vm .**
 
-    ![alt text](image.png)
+    ![alt text](Imagenes/1.png)
 3. En el extremo derecho, en Conectar , haga clic en **SSH** para abrir una ventana de terminal.
 
 4. En este laboratorio, ingresará comandos en la máquina virtual de entrenamiento **training-vm.** .
